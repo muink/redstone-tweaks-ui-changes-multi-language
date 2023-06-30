@@ -282,7 +282,15 @@
 				"\uE013"
 			]
 		},
-
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/container/sculk_sensor_guide.png",
+			"ascent": -52,
+			"height": 80,
+			"chars": [
+				"\uE014"
+			]
+		},
 
 		{
 			"type": "bitmap",
