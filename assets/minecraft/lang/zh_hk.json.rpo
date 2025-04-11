@@ -1,0 +1,4 @@
+{
+  "condition": "false",
+  "fallback": "assets/minecraft/lang/respackopts/en_us.json"
+}

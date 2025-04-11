@@ -1,54 +1,54 @@
 {
     "SIGNAL STRENGTH (& BREWING) CHARTS IN INVENTORY": "(change identifier names to disable)",
-  
-        "container.hopper": "漏斗\uf87f\uf816\uf808\uf802\u00a7f\ue006",
-        "container.dispenser": "\uf87f\uf716\uf702\uf864\uf816\uf701發射器\uf864\uf816\uf701\u00a7f\ue008",
-        "container.dropper": "\uf87f\uf716\uf702\uf864\uf816\uf701投擲器\uf864\uf816\uf701\u00a7f\ue007",
-        "container.furnace": "\uf87f\uf716\uf702\uf864\uf816\uf802\uf801熔爐\uf864\uf816\uf802\uf801\u00a7f\ue003",
-        "container.smoker": "\uf87f\uf716\uf702\uf864\uf816\uf701煙燻爐\uf864\uf816\uf701\u00a7f\ue004",
-        "container.blast_furnace": "\uf87f\uf716\uf702\uf864\uf816\uf802\uf801高爐\uf864\uf816\uf802\uf801\u00a7f\ue005",
-        "container.brewing":"\u00a7f\ue001\uf864\uf816\uf701\uf702\u00a7r釀造台\uf864\uf816\uf701\u00a7f\ue002\uf804",
-        "container.chest": "儲物箱\uf87f\uf816\uf801\u00a7f\ue009",
-        "container.chestDouble": "大型儲物箱\uf87f\uf701\u00a7f\ue012",
-        "container.shulkerBox": "界伏盒\uf87f\uf816\uf801\u00a7f\ue011",
-        "container.barrel": "木桶\uf87f\uf832\uf704\uf702\u00a7f\ue010",
-        "entity.minecraft.chest_minecart": "儲物箱礦車\uf87f\uf701\u00a7f\ue009\uf7ff\uf816\uf802",
-        "entity.minecraft.hopper_minecart": "漏斗礦車\uf87f\uf808\u00a7f\ue006\uf7ff\uf808\uf801",
-  
-  
-  
+
+        "container.hopper": "漏斗\uf87f\uf816\uf808\uf802§f\ue006",
+        "container.dispenser": "\uf87f\uf716\uf702\uf864\uf816\uf701發射器\uf864\uf816\uf701§f\ue008",
+        "container.dropper": "\uf87f\uf716\uf702\uf864\uf816\uf701投擲器\uf864\uf816\uf701§f\ue007",
+        "container.furnace": "\uf87f\uf716\uf702\uf864\uf816\uf802\uf801熔爐\uf864\uf816\uf802\uf801§f\ue003",
+        "container.smoker": "\uf87f\uf716\uf702\uf864\uf816\uf701煙燻爐\uf864\uf816\uf701§f\ue004",
+        "container.blast_furnace": "\uf87f\uf716\uf702\uf864\uf816\uf802\uf801高爐\uf864\uf816\uf802\uf801§f\ue005",
+        "container.brewing":"§f\ue001\uf864\uf816\uf701\uf702§r釀造台\uf864\uf816\uf701§f\ue002\uf804",
+        "container.chest": "儲物箱\uf87f\uf816\uf801§f\ue009",
+        "container.chestDouble": "大型儲物箱\uf87f\uf701§f\ue012",
+        "container.shulkerBox": "界伏盒\uf87f\uf816\uf801§f\ue011",
+        "container.barrel": "木桶\uf87f\uf832\uf704\uf702§f\ue010",
+        "entity.minecraft.chest_minecart": "儲物箱礦車\uf87f\uf701§f\ue009\uf7ff\uf816\uf802",
+        "entity.minecraft.hopper_minecart": "漏斗礦車\uf87f\uf808§f\ue006\uf7ff\uf808\uf801",
+
+
+
     "JUKEBOX & MUSIC DISCS": "(change identifier names to disable)",
-  
-        "block.minecraft.jukebox": "唱片機\uf732\uf801\u00a7f\ue013\uf764\uf732\uf802\uf801",
-        "item.minecraft.music_disc_13.desc": "C418 - 13 \u00a7f\ue101\uf801\u00A771 \u00a7f\ue102\u00A772:59.1",
-        "item.minecraft.music_disc_cat.desc": "C418 - cat \u00a7f\ue101\uf801\u00A772 \u00a7f\ue102\u00A773:06.1",
-        "item.minecraft.music_disc_blocks.desc": "C418 - blocks \u00a7f\ue101\uf801\u00A773 \u00a7f\ue102\u00A775:46.1",
-        "item.minecraft.music_disc_chirp.desc": "C418 - chirp \u00a7f\ue101\uf801\u00A774 \u00a7f\ue102\u00A773:06.1",
-        "item.minecraft.music_disc_far.desc": "C418 - far \u00a7f\ue101\uf801\u00A775 \u00a7f\ue102\u00A772:55.1",
-        "item.minecraft.music_disc_mall.desc": "C418 - mall \u00a7f\ue101\uf801\u00A776 \u00a7f\ue102\u00A773:18.1",
-        "item.minecraft.music_disc_mellohi.desc": "C418 - mellohi \u00a7f\ue101\uf801\u00A777 \u00a7f\ue102\u00A771:37.1",
-        "item.minecraft.music_disc_stal.desc": "C418 - stal \u00a7f\ue101\uf801\u00A778 \u00a7f\ue102\u00A772:31.1",
-        "item.minecraft.music_disc_strad.desc": "C418 - strad \u00a7f\ue101\uf801\u00A779 \u00a7f\ue102\u00A773:09.1",
-        "item.minecraft.music_disc_ward.desc": "C418 - ward \u00a7f\ue101\uf801\u00A7710 \u00a7f\ue102\u00A774:12.1",
-        "item.minecraft.music_disc_11.desc": "C418 - 11 \u00a7f\ue101\uf801\u00A7711 \u00a7f\ue102\u00A771:12.1",
-        "item.minecraft.music_disc_wait.desc": "C418 - wait \u00a7f\ue101\uf801\u00A7712 \u00a7f\ue102\u00A773:59.1",
-        "item.minecraft.music_disc_pigstep.desc": "Lena Raine - Pigstep \u00a7f\ue101\uf801\u00A7713 \u00a7f\ue102\u00A772:30.1",
-        "item.minecraft.music_disc_otherside.desc": "Lena Raine - otherside \u00a7f\ue101\uf801\u00A7714 \u00a7f\ue102\u00A773:16.1",
-        "item.minecraft.music_disc_relic.desc": "Aaron Cherof - Relic \u00a7f\ue101\uf801\u00A7714 \u00a7f\ue102\u00A773:39.1",
-        "item.minecraft.music_disc_5.desc": "Samuel Åberg - 5 \u00a7f\ue101\uf801\u00A7715 \u00a7f\ue102\u00A772:59.1",
-  
-  
-  
+
+        "block.minecraft.jukebox": "唱片機\uf732\uf801§f\ue013\uf764\uf732\uf802\uf801",
+        "item.minecraft.music_disc_13.desc": "C418 - 13 §f\ue101\uf801§71 §f\ue102§72:59.1",
+        "item.minecraft.music_disc_cat.desc": "C418 - cat §f\ue101\uf801§72 §f\ue102§73:06.1",
+        "item.minecraft.music_disc_blocks.desc": "C418 - blocks §f\ue101\uf801§73 §f\ue102§75:46.1",
+        "item.minecraft.music_disc_chirp.desc": "C418 - chirp §f\ue101\uf801§74 §f\ue102§73:06.1",
+        "item.minecraft.music_disc_far.desc": "C418 - far §f\ue101\uf801§75 §f\ue102§72:55.1",
+        "item.minecraft.music_disc_mall.desc": "C418 - mall §f\ue101\uf801§76 §f\ue102§73:18.1",
+        "item.minecraft.music_disc_mellohi.desc": "C418 - mellohi §f\ue101\uf801§77 §f\ue102§71:37.1",
+        "item.minecraft.music_disc_stal.desc": "C418 - stal §f\ue101\uf801§78 §f\ue102§72:31.1",
+        "item.minecraft.music_disc_strad.desc": "C418 - strad §f\ue101\uf801§79 §f\ue102§73:09.1",
+        "item.minecraft.music_disc_ward.desc": "C418 - ward §f\ue101\uf801§710 §f\ue102§74:12.1",
+        "item.minecraft.music_disc_11.desc": "C418 - 11 §f\ue101\uf801§711 §f\ue102§71:12.1",
+        "item.minecraft.music_disc_wait.desc": "C418 - wait §f\ue101\uf801§712 §f\ue102§73:59.1",
+        "item.minecraft.music_disc_pigstep.desc": "Lena Raine - Pigstep §f\ue101\uf801§713 §f\ue102§72:30.1",
+        "item.minecraft.music_disc_otherside.desc": "Lena Raine - otherside §f\ue101\uf801§714 §f\ue102§73:16.1",
+        "item.minecraft.music_disc_relic.desc": "Aaron Cherof - Relic §f\ue101\uf801§714 §f\ue102§73:39.1",
+        "item.minecraft.music_disc_5.desc": "Samuel Åberg - 5 §f\ue101\uf801§715 §f\ue102§72:59.1",
+
+
+
     "REDSTONE COMPONENT ACTIVATION TIME": "(change identifier names to disable)",
-  
-        "block.minecraft.sculk_sensor": "伏聆振測器 \ue1021.5s\uf764\uf716\uf701\u00a7f\ue014\uf764\uf708",
-        "block.minecraft.calibrated_sculk_sensor": "校準伏聆振測器 \ue1020.5s\uf764\uf732\uf702\uf701\u00a7f\ue014\uf764\uf808\uf802",
+
+        "block.minecraft.sculk_sensor": "伏聆振測器 \ue1021.5s\uf764\uf716\uf701§f\ue014\uf764\uf716\uf701",
+        "block.minecraft.calibrated_sculk_sensor": "校準伏聆振測器 \ue1020.5s\uf764\uf732\uf702\uf701§f\ue014\uf764\uf801",
         "block.minecraft.trapped_chest": "陷阱儲物箱 \ue102≥0.05s",
         "block.minecraft.detector_rail": "感測鐵軌 \ue102≥1s",
         "block.minecraft.tripwire_hook": "絆線鉤 \ue102≥0.5s",
         "block.minecraft.lightning_rod": "避雷針 \ue1020.4s",
         "block.minecraft.lectern": "講台 \ue1020.1s",
-        "block.minecraft.target": "標靶 \ue1020.4s,\uf8011s",
+        "block.minecraft.target": "標靶 \ue1020.4s,\uf8021s",
   
         "block.minecraft.stone_button": "石製按鈕 \ue1021s",
         "block.minecraft.polished_blackstone_button": "拋光黑石按鈕 \ue1021s",
