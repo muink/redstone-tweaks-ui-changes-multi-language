@@ -12,6 +12,7 @@
     ss_brewing: "(tooltips.ss_override.all | (tooltips.ss_override.select & tooltips.ss_brewing)) ? '' : '#'",
     ss_chests: "(tooltips.ss_override.all | (tooltips.ss_override.select & tooltips.ss_chests)) ? '' : '#'",
     ss_chest_minecart: "(tooltips.ss_override.all | (tooltips.ss_override.select & tooltips.ss_chest_minecart)) ? '' : '#'",
+    ss_decorated_pot: "(tooltips.ss_override.all | (tooltips.ss_override.select & tooltips.ss_decorated_pot)) ? '' : '#'",
     ss_droppers: "(tooltips.ss_override.all | (tooltips.ss_override.select & tooltips.ss_droppers)) ? '' : '#'",
     ss_furnaces: "(tooltips.ss_override.all | (tooltips.ss_override.select & tooltips.ss_furnaces)) ? '' : '#'",
     ss_hopper: "(tooltips.ss_override.all | (tooltips.ss_override.select & tooltips.ss_hopper)) ? '' : '#'",

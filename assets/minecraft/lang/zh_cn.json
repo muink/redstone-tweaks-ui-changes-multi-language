@@ -12,6 +12,7 @@
         "container.chestDouble": "大型箱子\uf87f\uf808§f\ue012",
         "container.shulkerBox": "潜影盒\uf87f\uf816\uf801§f\ue011",
         "container.barrel": "木桶\uf87f\uf832\uf704\uf702§f\ue010",
+        "block.minecraft.decorated_pot": "饰纹陶罐\uf732\uf708§f\ue015\uf764\uf732\uf702\uf701",
         "entity.minecraft.chest_minecart": "运输矿车\uf87f\uf808§f\ue009\uf7ff\uf808\uf801",
         "entity.minecraft.hopper_minecart": "漏斗矿车\uf87f\uf808§f\ue006\uf7ff\uf808\uf801",
 

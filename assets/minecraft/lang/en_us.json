@@ -12,6 +12,7 @@
         "container.chestDouble": "Large Chest\uf864\uf832\uf808\uf804\uf802§f\ue012",
         "container.shulkerBox": "Shulker Box\uf864\uf832\uf816§f\ue011",
         "container.barrel": "Barrel\uf864\uf864\uf808\uf802\uf801§f\ue010",
+        "block.minecraft.decorated_pot": "Decorated Pot\uf764\uf708\uf704§f\ue015\uf732\uf716\uf708\uf704\uf702\uf701",
         "entity.minecraft.chest_minecart": "Minecart with Chest\uf864\uf808\uf804§f\ue009",
         "entity.minecraft.hopper_minecart": "Minecart with Hopper\uf864\uf804§f\ue006",
 
