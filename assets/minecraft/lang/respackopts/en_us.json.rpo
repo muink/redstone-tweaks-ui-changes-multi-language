@@ -1,6 +1,4 @@
 {
-  "condition": "extra.tooltips",
-  "fallback": "assets/minecraft/lang/no_tooltips/en_us.json",
   expansions: {
     activation_duration: "tooltips.activation_duration ? '' : '#'",
     jukebox: "tooltips.jukebox ? '' : '#'",

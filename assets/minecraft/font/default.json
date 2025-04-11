@@ -169,7 +169,7 @@
 			"type": "bitmap",
 			"file": "minecraft:gui/container/brewing_stand_guide_left.png",
 			"ascent": 13,
-			"height": 142,
+			"height": 207,
 			"chars": [
 				"\uE001"
 			]
@@ -277,7 +277,7 @@
 			"type": "bitmap",
 			"file": "minecraft:gui/container/jukebox_guide.png",
 			"ascent": -52,
-			"height": 58,
+			"height": 74,
 			"chars": [
 				"\uE013"
 			]
