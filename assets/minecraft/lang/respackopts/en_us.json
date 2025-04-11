@@ -68,6 +68,7 @@
         "${activation_duration}block.minecraft.dark_oak_button": "Dark Oak Button \ue102≥1.5s",
         "${activation_duration}block.minecraft.mangrove_button": "Mangrove Button \ue102≥1.5s",
         "${activation_duration}block.minecraft.cherry_button": "Cherry Button \ue102≥1.5s",
+        "${activation_duration}block.minecraft.pale_oak_button": "Pale Oak Button \ue102≥1.5s",
         "${activation_duration}block.minecraft.bamboo_button": "Bamboo Button \ue102≥1.5s",
         "${activation_duration}block.minecraft.crimson_button": "Crimson Button \ue102≥1.5s",
         "${activation_duration}block.minecraft.warped_button": "Warped Button \ue102≥1.5s",
@@ -82,6 +83,7 @@
         "${activation_duration}block.minecraft.dark_oak_pressure_plate": "Dark Oak Pressure Plate \ue102≥1s",
         "${activation_duration}block.minecraft.mangrove_pressure_plate": "Mangrove Pressure Plate \ue102≥1s",
         "${activation_duration}block.minecraft.cherry_pressure_plate": "Cherry Pressure Plate \ue102≥1s",
+        "${activation_duration}block.minecraft.pale_oak_pressure_plate": "Pale Oak Pressure Plate \ue102≥1s",
         "${activation_duration}block.minecraft.bamboo_pressure_plate": "Bamboo Pressure Plate \ue102≥1s",
         "${activation_duration}block.minecraft.crimson_pressure_plate": "Crimson Pressure Plate \ue102≥1s",
         "${activation_duration}block.minecraft.warped_pressure_plate": "Warped Pressure Plate \ue102≥1s",
@@ -93,6 +95,11 @@
     "RESPACKOPTS ENTRIES": "",
 
         "rpo.redstonetweaks": "Redstone Tweaks",
+
+        "rpo.redstonetweaks.preset.standard": "Standard",
+        "rpo.redstonetweaks.preset.computational": "Computational",
+        "rpo.redstonetweaks.preset.essentials": "Essentials",
+        "rpo.redstonetweaks.preset.maximum": "Maximum",
 
         "rpo.redstonetweaks.redstone": "Redstone",
         "rpo.redstonetweaks.redstone.tooltip": "Toggle primary features",
