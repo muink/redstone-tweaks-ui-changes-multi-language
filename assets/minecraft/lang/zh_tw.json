@@ -45,14 +45,20 @@
 
     "REDSTONE COMPONENT ACTIVATION TIME": "(change identifier names to disable)",
 
+        "block.minecraft.redstone_torch": "紅石火把 \ue1020.1s",
+        "block.minecraft.repeater": "紅石中繼器 \ue1020.1s",
+        "block.minecraft.comparator": "紅石比較器 \ue1020.1s",
+        "block.minecraft.observer": "偵測器 \ue1020.1s",
+        "block.minecraft.piston": "活塞 \ue1020.1s, 0.15s",
+        "block.minecraft.sticky_piston": "粘性活塞 \ue1020.1s,\uf8020.15s",
         "block.minecraft.sculk_sensor": "伏聆振測器 \ue1021.5s\uf764\uf716\uf701§f\ue014\uf764\uf716\uf701",
         "block.minecraft.calibrated_sculk_sensor": "校準伏聆振測器 \ue1020.5s\uf764\uf732\uf702\uf701§f\ue014\uf764\uf801",
-        "block.minecraft.trapped_chest": "陷阱儲物箱 \ue102≥0.05s",
         "block.minecraft.detector_rail": "感測鐵軌 \ue102≥1s",
         "block.minecraft.tripwire_hook": "絆線鉤 \ue102≥0.5s",
         "block.minecraft.lightning_rod": "避雷針 \ue1020.4s",
         "block.minecraft.lectern": "講台 \ue1020.1s",
         "block.minecraft.target": "標靶 \ue1020.4s,\uf8021s",
+        "block.minecraft.daylight_detector": "日光感測器 \ue1021s",
   
         "block.minecraft.stone_button": "石製按鈕 \ue1021s",
         "block.minecraft.polished_blackstone_button": "拋光黑石按鈕 \ue1021s",
