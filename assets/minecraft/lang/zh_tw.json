@@ -12,7 +12,7 @@
         "container.chestDouble": "大型儲物箱\uf840\uf820\uf810\uf808\uf804\uf802\uf801§f\ue012",
         "container.shulkerBox": "界伏盒\uf880\uf810\uf801§f\ue011",
         "container.barrel": "木桶\uf880\uf810\uf808\uf802§f\ue010",
-        "block.minecraft.decorated_pot": "飾紋陶罐\uf7e0\uf7f8§f\ue015\uf7c0\uf7e0\uf7fe\uf7ff",
+        "block.minecraft.decorated_pot": "\uf7fc§f\ue015\uf780\uf7fc\uf7fe\uf7ff飾紋陶罐",
         "entity.minecraft.chest_minecart": "儲物箱礦車\uf840\uf820\uf810\uf808\uf804\uf802\uf801§f\ue009",
         "entity.minecraft.hopper_minecart": "漏斗礦車\uf880\uf808§f\ue006",
 
@@ -20,7 +20,7 @@
 
     "JUKEBOX & MUSIC DISCS": "(change identifier names to disable)",
 
-        "block.minecraft.jukebox": "唱片機\uf7e0\uf801§f\ue013\uf7c0\uf7e0\uf808\uf801",
+        "block.minecraft.jukebox": "\uf7fc§f\ue013\uf7c0\uf7e0\uf7f0\uf7fe唱片機",
         "jukebox_song.minecraft.13": "C418 - 13 §f\ue101§r1§f\ue102§r2:59.1",
         "jukebox_song.minecraft.cat": "C418 - cat §f\ue101§r2§f\ue102§r3:06.1",
         "jukebox_song.minecraft.blocks": "C418 - blocks §f\ue101§r3§f\ue102§r5:46.1",
@@ -51,8 +51,8 @@
         "block.minecraft.observer": "偵測器 \ue1020.1s",
         "block.minecraft.piston": "活塞 \ue1020.1s,0.15s",
         "block.minecraft.sticky_piston": "黏性活塞 \ue1020.1s,0.15s",
-        "block.minecraft.sculk_sensor": "伏聆振測器 \ue1021.5s\uf7c0\uf7f0\uf7ff§f\ue014\uf7c0\uf7f0\uf7ff",
-        "block.minecraft.calibrated_sculk_sensor": "校準伏聆振測器 \ue1020.5s\uf7c0\uf7e0\uf7fe\uf7ff§f\ue014\uf7c0\uf801",
+        "block.minecraft.sculk_sensor": "\uf7fc§f\ue014\uf780\uf7f0\uf7f8\uf7fc\uf7fe伏聆振測器 \ue1021.5s",
+        "block.minecraft.calibrated_sculk_sensor": "\uf7fc§f\ue014\uf780\uf7f0\uf7f8\uf7fc\uf7fe校準伏聆振測器 \ue1020.5s",
         "block.minecraft.detector_rail": "感測鐵軌 \ue102≥1s",
         "block.minecraft.tripwire_hook": "絆線鉤 \ue102≥0.5s",
         "block.minecraft.lightning_rod": "避雷針 \ue1020.4s",
