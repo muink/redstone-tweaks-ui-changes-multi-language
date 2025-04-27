@@ -300,6 +300,15 @@
 			"chars": [
 				"\uE102"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/delay.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"\uE103"
+			]
 		}
 	]
 }
