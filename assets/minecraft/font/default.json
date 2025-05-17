@@ -282,6 +282,15 @@
 				"\uE015"
 			]
 		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/container/crafter_guide.png",
+			"ascent": -52,
+			"height": 76,
+			"chars": [
+				"\uE016"
+			]
+		},
 
 		{
 			"type": "bitmap",
