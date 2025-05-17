@@ -55,6 +55,7 @@
   "container.brewing": "§f\ue001\uf840\uf808\uf804\uf802§r釀造台\uf840\uf808\uf804\uf802§f\ue002\uf804\uf801",
   "container.chest": "儲物箱\uf880\uf810\uf801§f\ue009",
   "container.chestDouble": "大型儲物箱\uf840\uf820\uf810\uf808\uf804\uf802\uf801§f\ue012",
+  "container.crafter": "\uf880\uf820\uf810\uf804\uf801合成器\uf840\uf808\uf804\uf802§f\ue016",
   "container.dispenser": "\uf880\uf820\uf810\uf808\uf804\uf801發射器\uf840\uf808\uf804\uf802§f\ue008",
   "container.dropper": "\uf880\uf820\uf810\uf808\uf804\uf801投擲器\uf840\uf808\uf804\uf802§f\ue007",
   "container.furnace": "\uf880\uf840\uf801熔爐\uf840\uf810\uf802\uf801§f\ue003",

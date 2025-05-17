@@ -55,6 +55,7 @@
   "container.brewing": "§f\ue001\uf820\uf810\uf804\uf802§rilo pi telo wawa\uf820\uf810\uf804\uf802\uf801§f\ue002\uf804\uf801",
   "container.chest": "poki\uf880\uf810\uf808\uf801§f\ue009",
   "container.chestDouble": "poki suli\uf880\uf804§f\ue012",
+  "container.crafter": "\uf880\uf820\uf810\uf802ilo pali\uf840\uf808\uf804§f\ue016",
   "container.dispenser": "\uf880\uf810\uf808\uf804\uf802\uf801poki pi pana wawa\uf820\uf810§f\ue008",
   "container.dropper": "\uf880\uf820\uf810\uf802\uf801poki pana\uf840\uf804§f\ue007",
   "container.furnace": "\uf880\uf820\uf810\uf804\uf802poki seli\uf840\uf808§f\ue003",

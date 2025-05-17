@@ -55,6 +55,7 @@
   "container.brewing": "§f\ue001\uf820\uf810\uf804\uf802\uf801§rხსნარსახარში\uf820\uf810\uf808§f\ue002\uf804\uf801",
   "container.chest": "სკივრი\uf880\uf808§f\ue009",
   "container.chestDouble": "დიდი სკივრი\uf840\uf820\uf808\uf804§f\ue012",
+  "container.crafter": "\uf880\uf820\uf808\uf804\uf801ამწყობი\uf840\uf804\uf802\uf801§f\ue016",
   "container.dispenser": "\uf880\uf820\uf808\uf804გამტყორცნი\uf820\uf810\uf808\uf804\uf802§f\ue008",
   "container.dropper": "\uf880\uf820\uf810\uf801დამყრელი\uf840\uf802\uf801§f\ue007",
   "container.furnace": "\uf880\uf820\uf810\uf804\uf802\uf801ღუმელი\uf840\uf808\uf801§f\ue003",

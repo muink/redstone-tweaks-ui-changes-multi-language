@@ -55,6 +55,7 @@
   "container.brewing": "§f\ue001\uf840\uf804§rAlambique\uf840\uf804§f\ue002\uf804\uf801",
   "container.chest": "Cofre\uf880\uf808\uf804\uf802\uf801§f\ue009",
   "container.chestDouble": "Cofre grande\uf840\uf820\uf804\uf802\uf801§f\ue012",
+  "container.crafter": "\uf880\uf820\uf802\uf801Crafteadora\uf820\uf810\uf808\uf804§f\ue016",
   "container.dispenser": "\uf880\uf820\uf808\uf802\uf801Dispensador\uf820\uf810\uf808\uf804\uf801§f\ue008",
   "container.dropper": "\uf880\uf820\uf810\uf804\uf801Soltador\uf840\uf804\uf802§f\ue007",
   "container.furnace": "\uf880\uf820\uf810\uf808\uf802\uf801Horno\uf840\uf808\uf804\uf801§f\ue003",

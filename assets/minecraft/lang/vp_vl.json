@@ -55,6 +55,7 @@
   "container.brewing": "§f\ue001\uf820\uf808\uf804\uf801§rIshketoreudwaibma\uf820\uf808\uf804\uf801§f\ue002\uf804\uf801",
   "container.chest": "Baksu\uf880\uf808\uf804\uf802\uf801§f\ue009",
   "container.chestDouble": "Stuur baksu\uf840\uf820\uf808\uf804\uf802\uf801§f\ue012",
+  "container.crafter": "\uf880\uf820\uf804\uf802\uf801Anmahabma\uf840\uf801§f\ue016",
   "container.dispenser": "\uf880\uf820\uf810\uf802\uf801Antadado\uf840\uf804\uf801§f\ue008",
   "container.dropper": "\uf880\uf820\uf808\uf802Spaadabaksu\uf820\uf810\uf808\uf802\uf801§f\ue007",
   "container.furnace": "\uf880\uf820\uf810\uf804\uf802Honobet\uf840\uf808§f\ue003",

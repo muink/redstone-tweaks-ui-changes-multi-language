@@ -55,6 +55,7 @@
   "container.brewing": "§f\ue001\uf820\uf810\uf808\uf804\uf801§rFőzőállvány\uf820\uf810\uf808\uf804\uf802§f\ue002\uf804\uf801",
   "container.chest": "Láda\uf880\uf810\uf804§f\ue009",
   "container.chestDouble": "Nagy láda\uf840\uf820\uf810\uf808\uf802\uf801§f\ue012",
+  "container.crafter": "\uf880\uf820\uf804\uf802Barkácsoló\uf840§f\ue016",
   "container.dispenser": "\uf880\uf820\uf810\uf804\uf802\uf801Adagoló\uf840\uf808§f\ue008",
   "container.dropper": "\uf880\uf820\uf810\uf808\uf802Kidobó\uf840\uf808\uf804§f\ue007",
   "container.furnace": "\uf880\uf820\uf810\uf804\uf801Kemence\uf840\uf804\uf802\uf801§f\ue003",

@@ -55,6 +55,7 @@
   "container.brewing": "§f\ue001\uf820\uf810§rtaS vutmeH qal'aq\uf820\uf810§f\ue002\uf804\uf801",
   "container.chest": "DerlIq\uf880\uf808\uf804\uf801§f\ue009",
   "container.chestDouble": "DerlIq tIn\uf840\uf820\uf810\uf808\uf802\uf801§f\ue012",
+  "container.crafter": "\uf880\uf820\uf804\uf802\uf801chenmoHwI'\uf840\uf801§f\ue016",
   "container.dispenser": "\uf880\uf820\uf810\uf808\uf802\uf801peSwI'\uf840\uf808\uf804\uf801§f\ue008",
   "container.dropper": "\uf880\uf820\uf810\uf804\uf801chaghwI'\uf840\uf804\uf802\uf801§f\ue007",
   "container.furnace": "\uf880\uf820\uf810\uf808vIncha'\uf840\uf808\uf802§f\ue003",

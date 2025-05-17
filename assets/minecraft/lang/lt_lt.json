@@ -55,6 +55,7 @@
   "container.brewing": "§f\ue001\uf820\uf810\uf804§rEliksyrų stovas\uf820\uf810\uf804\uf801§f\ue002\uf804\uf801",
   "container.chest": "Skrynia\uf880\uf804\uf802\uf801§f\ue009",
   "container.chestDouble": "Didelė skrynia\uf840\uf820\uf804\uf802§f\ue012",
+  "container.crafter": "\uf880\uf820\uf808\uf804\uf801Kūrėjas\uf840\uf804\uf802\uf801§f\ue016",
   "container.dispenser": "\uf880\uf820\uf810\uf802Dalytuvas\uf840\uf802\uf801§f\ue008",
   "container.dropper": "\uf880\uf820\uf810\uf801Mėtytuvas\uf840\uf802\uf801§f\ue007",
   "container.furnace": "\uf880\uf820\uf810\uf804\uf802\uf801Krosnis\uf840\uf808\uf801§f\ue003",

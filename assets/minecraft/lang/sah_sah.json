@@ -55,6 +55,7 @@
   "container.brewing": "§f\ue001\uf810\uf802\uf801§rАптаах ууну буһарар тэрил\uf810\uf804§f\ue002\uf804\uf801",
   "container.chest": "Дьааһык\uf880\uf801§f\ue009",
   "container.chestDouble": "Улахан дьааһык\uf840\uf810\uf808\uf801§f\ue012",
+  "container.crafter": "\uf880\uf820\uf804Хомуйааччы\uf820\uf810\uf808\uf804\uf801§f\ue016",
   "container.dispenser": "\uf880\uf820\uf808\uf804\uf802\uf801Биэрээччи\uf840\uf801§f\ue008",
   "container.dropper": "\uf880\uf820\uf808\uf804Быраҕааччы\uf820\uf810\uf808\uf804\uf801§f\ue007",
   "container.furnace": "\uf880\uf820\uf810\uf808\uf804\uf802Оһох\uf840\uf810§f\ue003",
